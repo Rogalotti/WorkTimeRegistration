@@ -1,2 +1,2 @@
 # WorkTimeRegistration
-Init Project
+Helps Check Time
