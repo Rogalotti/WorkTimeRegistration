@@ -1,2 +1,2 @@
 # WorkTimeRegistration
-Helps Check Time
+Helps Check Time.
